@@ -1,0 +1,11 @@
+streamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlibstreamlit
+tensorflow
+numpy
+pandas
+scikit-learn
+matplotlib
