@@ -3,7 +3,8 @@ tensorflow
 numpy
 pandas
 scikit-learn
-matplotlibstreamlit
+matplotlib
+streamlit
 tensorflow
 numpy
 pandas
