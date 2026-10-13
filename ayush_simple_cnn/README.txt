@@ -6,3 +6,6 @@ READY VERSION
 Run:
 pip install -r requirements.txt
 python cnn.py
+
+it works on
+
